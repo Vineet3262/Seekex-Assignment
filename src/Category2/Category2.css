@@ -1,0 +1,23 @@
+.Catogery-Card {
+    position: relative;
+
+}
+
+.Catogery-Card span {
+    position: absolute;
+    z-index: 9;
+    bottom: 15px;
+    color: #fff;
+    left: 30%;
+}
+
+.CatogeryName {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    background-color: #5c5a5ac4;
+    height: 60px;
+    width: 100%;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
